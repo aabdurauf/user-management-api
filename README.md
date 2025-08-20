@@ -4,7 +4,7 @@
 
 Full Stack Application created with MERN Stack. Frontend runs on React + TypeScript and Backend runs on Node.js + MongoDB. You can create account and login to see other users. It allows you to delete, block and unblock other users.
 
-#### Live: https://user-management-abdurauf1.netlify.app/
+#### Live: https://user-management-aabdurauf.netlify.app/
 
 ### Installation
 
